@@ -9,6 +9,7 @@ In this repository you will find:
 	 This version of EmbryoMaker is similar to the original one, it just includes a couple modifications:
 	 
 	 A. Automatic ending conditions that will stop the simulation. For details on these conditions see the suplementary information of "ARTICLE LINK". 
-	 B. Some of the genes dynamics have been simplified. For details on these conditions see the suplementary information of "ARTICLE LINK". 
+	
+	B. Some of the genes dynamics have been simplified. For details on these conditions see the suplementary information of "ARTICLE LINK". 
 
 2. Complex morphologies of each of the ensembles used in the article
