@@ -2,7 +2,8 @@
 
 In this repository you will find:
 
-1. The EmbryoMaker code used to run the developmental simulations
+1. The EmbryoMaker code used to run the developmental simulations.
+
    The EmbryoMaker code can be found in the EmbryoMaker.devo folder. This folder includes the code, which is located in /src/core and a bash file that can be use to compile EmbryoMaker, the executable will be located in the folder /bin.
 	 
 	 This version of EmbryoMaker is similar to the original one, it includes just a couple modifications:
