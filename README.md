@@ -13,3 +13,5 @@ In this repository you will find:
 	B. Some of the genes dynamics have been simplified. For details on these conditions see the suplementary information of "ARTICLE LINK". 
 
 2. Initial developmental pattern of each of the ensembles used in the article
+
+These can be found in the folder /InitialDevoPattern
