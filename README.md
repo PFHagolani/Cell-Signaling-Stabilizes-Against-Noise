@@ -14,4 +14,4 @@ In this repository you will find:
 
 2. Initial developmental pattern of each of the ensembles used in the article
 
-These can be found in the folder /InitialDevoPatterns
+	These can be found in the folder /InitialDevoPatterns
